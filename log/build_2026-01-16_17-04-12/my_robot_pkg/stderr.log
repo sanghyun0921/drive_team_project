@@ -1,0 +1,5 @@
+  File "/home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/inspection.py", line 121
+    else:
+    ^^^^
+SyntaxError: invalid syntax
+

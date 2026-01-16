@@ -1,0 +1,34 @@
+[0.717s] Invoking command in '/home/shcho/ros2_ws3/build/my_robot_pkg': PYTHONPATH=/home/shcho/ros2_ws3/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/shcho/ros2_ws3/build/my_robot_pkg/build
+[1.057s] running develop
+[1.058s] Removing /home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my-robot-pkg.egg-link (link to .)
+[1.072s] Invoked command in '/home/shcho/ros2_ws3/build/my_robot_pkg' returned '0': PYTHONPATH=/home/shcho/ros2_ws3/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/shcho/ros2_ws3/build/my_robot_pkg/build
+[1.093s] Invoking command in '/home/shcho/ros2_ws3/src/my_robot_pkg': PYTHONPATH=/home/shcho/ros2_ws3/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/shcho/ros2_ws3/build/my_robot_pkg/build install --record /home/shcho/ros2_ws3/build/my_robot_pkg/install.log --single-version-externally-managed install_data --force
+[1.378s] running egg_info
+[1.380s] writing ../../build/my_robot_pkg/my_robot_pkg.egg-info/PKG-INFO
+[1.380s] writing dependency_links to ../../build/my_robot_pkg/my_robot_pkg.egg-info/dependency_links.txt
+[1.380s] writing entry points to ../../build/my_robot_pkg/my_robot_pkg.egg-info/entry_points.txt
+[1.381s] writing requirements to ../../build/my_robot_pkg/my_robot_pkg.egg-info/requires.txt
+[1.383s] writing top-level names to ../../build/my_robot_pkg/my_robot_pkg.egg-info/top_level.txt
+[1.384s] reading manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[1.385s] writing manifest file '../../build/my_robot_pkg/my_robot_pkg.egg-info/SOURCES.txt'
+[1.385s] running build
+[1.385s] running build_py
+[1.386s] running install
+[1.386s] running install_lib
+[1.387s] creating /home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.393s] copying /home/shcho/ros2_ws3/build/my_robot_pkg/build/lib/my_robot_pkg/__init__.py -> /home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg
+[1.393s] byte-compiling /home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg/__init__.py to __init__.cpython-310.pyc
+[1.393s] running install_data
+[1.393s] copying resource/my_robot_pkg -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/ament_index/resource_index/packages
+[1.393s] copying package.xml -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg
+[1.393s] copying launch/real.launch.py -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/launch
+[1.393s] copying params/nav2_params.yaml -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/params
+[1.393s] copying map/map.pgm -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/map
+[1.393s] copying map/sim_map.pgm -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/map
+[1.393s] copying map/map.yaml -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/map
+[1.393s] copying map/sim_map.yaml -> /home/shcho/ros2_ws3/install/my_robot_pkg/share/my_robot_pkg/map
+[1.393s] running install_egg_info
+[1.394s] Copying ../../build/my_robot_pkg/my_robot_pkg.egg-info to /home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages/my_robot_pkg-0.0.0-py3.10.egg-info
+[1.394s] running install_scripts
+[1.405s] writing list of installed files to '/home/shcho/ros2_ws3/build/my_robot_pkg/install.log'
+[1.426s] Invoked command in '/home/shcho/ros2_ws3/src/my_robot_pkg' returned '0': PYTHONPATH=/home/shcho/ros2_ws3/build/my_robot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shcho/ros2_ws3/install/my_robot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_pkg build --build-base /home/shcho/ros2_ws3/build/my_robot_pkg/build install --record /home/shcho/ros2_ws3/build/my_robot_pkg/install.log --single-version-externally-managed install_data --force

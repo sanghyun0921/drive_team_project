@@ -15,7 +15,7 @@ import os
 from PIL import Image as PILImage
 from rclpy.executors import MultiThreadedExecutor
 
-GEMINI_API_KEY = "AIzaSyA8clYsUoxDV2c0_TZ83g3dj6rWyCUSyjc"
+GEMINI_API_KEY = "본인의 API 키"
 
 # [중요] 실제 맵 좌표 (CustomDriver가 갈 수 있는 곳)
 LOCATION_DB = {

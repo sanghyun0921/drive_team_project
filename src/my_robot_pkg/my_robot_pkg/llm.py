@@ -14,7 +14,7 @@ from PIL import Image as PILImage
 from rclpy.executors import MultiThreadedExecutor
 
 # [중요] 여기에 본인의 API 키를 입력하세요
-GEMINI_API_KEY = "AIzaSyA8clYsUoxDV2c0_TZ83g3dj6rWyCUSyjc"
+GEMINI_API_KEY = "본인의 API 키"
 
 # Gazebo 맵(turtlebot3_world) 기준 테스트 좌표
 LOCATION_DB = {

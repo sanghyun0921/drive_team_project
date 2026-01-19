@@ -1,6 +1,0 @@
-[console_scripts]
-a_star_rpp = my_robot_pkg.rpp_obstacle:main
-llm = my_robot_pkg.llm:main
-obstacle = my_robot_pkg.obstacle:main
-sim_llm = my_robot_pkg.sim_llm:main
-

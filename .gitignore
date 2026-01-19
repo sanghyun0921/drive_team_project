@@ -7,3 +7,7 @@
 
 # 환경 변수 파일
 .env
+
+### ROS2 ###
+install/
+log/
